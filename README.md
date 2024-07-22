@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaspaulino-santos
 - 👀 I’m interested in data science
-- :teacher:	I'm a technology and robotics teacher at SEDUC-SP 
+- :teacher:	I'm a technology and robotics teacher at SEDUC-SP since 03/2024
 - 🌱 I’m currently learning programming at Alura, and I have a bachelor's degree in physics from University of São Paulo (USP)
 - 📫 How to reach me -> email: lucaspaulino180@gmail.com
 
